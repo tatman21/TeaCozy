@@ -67,7 +67,7 @@ a {
 .mission-content {
   margin: 0;
   display: block;
-  position: absolute;
+  position: relative;
   background-color: black;
   z-index: 1;
   width: 1200px;
